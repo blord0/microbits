@@ -5,7 +5,6 @@ Blue: spin right
 
 A: Increase speed 10%
 B: Decrease speed 10%
-
 A+B: Set speed 50%
 
 Notes: Cannot spin and move at same time
